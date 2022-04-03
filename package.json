@@ -1,6 +1,6 @@
 {
 	"name": "beryllium",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "CRISiSLab theme",
 	"main": "theme.js",
 	"types": "theme.d.ts",
@@ -15,9 +15,9 @@
 	},
 	"homepage": "https://github.com/rs-Web-Interface-CRISiSLab/theme#readme",
 	"devDependencies": {
-		"@mui/material": "^5.5.3"
+		"@mui/material": "5"
 	},
 	"peerDependencies": {
-		"@mui/material": "^5.5.3"
+		"@mui/material": "5"
 	}
 }

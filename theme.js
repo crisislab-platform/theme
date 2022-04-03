@@ -23,7 +23,7 @@ let theme = createTheme({
 		},
 	},
 	typography: {
-		fontFamily: "Roboto Slab, serif",
+		fontFamily: '"Roboto Slab", "Roboto", sans-serif',
 	},
 });
 const shadowColour = theme.palette.primary.main;
