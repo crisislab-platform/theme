@@ -1,6 +1,6 @@
 {
 	"name": "beryllium",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "CRISiSLab theme",
 	"main": "theme.js",
 	"types": "theme.d.ts",
