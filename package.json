@@ -1,0 +1,23 @@
+{
+	"name": "beryllium",
+	"version": "1.0.0",
+	"description": "CRISiSLab theme",
+	"main": "theme.js",
+	"types": "theme.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rs-Web-Interface-CRISiSLab/theme.git"
+	},
+	"author": "Zade Viggers",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/rs-Web-Interface-CRISiSLab/theme/issues"
+	},
+	"homepage": "https://github.com/rs-Web-Interface-CRISiSLab/theme#readme",
+	"devDependencies": {
+		"@mui/material": "^5.5.3"
+	},
+	"peerDependencies": {
+		"@mui/material": "^5.5.3"
+	}
+}
