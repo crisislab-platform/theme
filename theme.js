@@ -1,5 +1,6 @@
-import createShadows from "./shadows.js";
 import { createTheme, responsiveFontSizes } from "@mui/material";
+
+import createShadows from "./shadows.js";
 
 let theme = createTheme({
 	palette: {
@@ -23,7 +24,7 @@ let theme = createTheme({
 		},
 	},
 	typography: {
-		fontFamily: '"Nunito", "Roboto", sans-serif',
+		fontFamily: "acumin-pro, Roboto, sans-serif",
 	},
 });
 const shadowColour = theme.palette.primary.main;
