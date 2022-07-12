@@ -22,6 +22,9 @@ let theme = createTheme({
 		error: {
 			main: "#D00000",
 		},
+		geonet: {
+			main: "#8D0020",
+		},
 	},
 	typography: {
 		fontFamily: "acumin-pro, Roboto, sans-serif",
