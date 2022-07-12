@@ -23,7 +23,11 @@ let theme = createTheme({
 			main: "#D00000",
 		},
 		geonet: {
+			// Because this is a non-standard color, the light and dark variants need to be defiend manually
 			main: "#8D0020",
+			light: "#C34150",
+			dark: "#590000",
+			contrastText: "#FFF",
 		},
 	},
 	typography: {
