@@ -27,7 +27,7 @@ let theme = createTheme({
 		},
 	},
 	typography: {
-		fontFamily: "acumin-pro, Roboto, sans-serif",
+		fontFamily: "ManropeVariable, Manrope, acumin-pro, Roboto, sans-serif",
 	},
 });
 const shadowColour = theme.palette.primary.main;
